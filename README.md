@@ -32,7 +32,7 @@ A modern, standalone desktop Tic-Tac-Toe game built with Python and Tkinter. Pla
  Clone the repository using command prompt:
 
    ```bash
-   git clone [https://github.com/yourusername/tic-tac-toe.git](https://github.com/PS-RANASINGHE/TIC_TAC_TOE-application-game)
+   git clone https://github.com/PS-RANASINGHE/TIC_TAC_TOE-application-game
    ```
 
 
