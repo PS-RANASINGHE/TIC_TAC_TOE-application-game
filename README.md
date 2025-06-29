@@ -79,3 +79,14 @@ The AI’s Hard difficulty uses a classic minimax recursion:
 
 * Built with Python’s built-in Tkinter GUI toolkit.
 * Minimax algorithm inspired by classical AI tutorials.
+
+
+## Game play 
+https://github.com/user-attachments/assets/9a4518c7-ed5b-4147-b103-64fc40909a7f
+
+
+
+
+
+
+
