@@ -38,7 +38,7 @@ Or
 
 + Go to the Repo `https://github.com/PS-RANASINGHE/TIC_TAC_TOE-application-game/tree/main`
 + Click on the `Code` button which is in green colour
-+ Click on `Download as Zip`
++ Click on `Download Zip`
 + Unzip the file
 + Enjoy the play 
 
