@@ -86,6 +86,21 @@ The AI’s Hard difficulty uses a classic minimax recursion:
 * Built with Python’s built-in Tkinter GUI toolkit.
 * Minimax algorithm inspired by classical AI tutorials.
 
+## Unit Test
+
+Created unit test to test the functionality of the game. The results are as follows. The tests are mentioned in the file `unittest_tictactoe.py`
+
+
+```bash
+
+PS D:\pycharm installed\procject\.venv\Scripts> python .\test_tictactoe.py
+......
+----------------------------------------------------------------------
+Ran 6 tests in 0.005s
+
+OK
+```
+
 
 ## Game play 
 https://github.com/user-attachments/assets/9a4518c7-ed5b-4147-b103-64fc40909a7f
