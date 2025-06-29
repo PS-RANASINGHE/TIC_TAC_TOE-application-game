@@ -34,7 +34,13 @@ A modern, standalone desktop Tic-Tac-Toe game built with Python and Tkinter. Pla
    ```bash
    git clone https://github.com/PS-RANASINGHE/TIC_TAC_TOE-application-game
    ```
+Or
 
++ Go to the Repo `https://github.com/PS-RANASINGHE/TIC_TAC_TOE-application-game/tree/main`
++ Click on the `Code` button which is in green colour
++ Click on `Download as Zip`
++ Unzip the file
++ Enjoy the play 
 
 ## Usage
 
