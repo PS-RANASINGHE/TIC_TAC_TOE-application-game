@@ -2,6 +2,9 @@
 
 A modern, standalone desktop Tic-Tac-Toe game built with Python and Tkinter. Play against another human or challenge an AI with three difficulty levels. Packaged as a one-file Windows executable for easy distribution.
 
+## Game play 
+https://github.com/user-attachments/assets/9a4518c7-ed5b-4147-b103-64fc40909a7f
+
 ## Features
 
 * **Single Player vs. Computer**
